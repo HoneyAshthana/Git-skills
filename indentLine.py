@@ -1,0 +1,1 @@
+print 'hello\n     world\n         can you\n             print this\n                  WITH SINGLE PRINT'
